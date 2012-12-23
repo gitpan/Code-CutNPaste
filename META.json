@@ -47,7 +47,7 @@
       },
       "Code::CutNPaste" : {
          "file" : "lib/Code/CutNPaste.pm",
-         "version" : "0.03"
+         "version" : "0.04"
       },
       "Code::CutNPaste::Duplicate" : {
          "file" : "lib/Code/CutNPaste/Duplicate.pm",
@@ -67,5 +67,5 @@
          "url" : "https://github.com/Ovid/code-cutnpaste"
       }
    },
-   "version" : "0.03"
+   "version" : "0.04"
 }
